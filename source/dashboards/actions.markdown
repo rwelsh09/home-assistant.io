@@ -7,6 +7,7 @@ Some cards have support for tap actions. These actions define what will happen w
 
 Actions can be enabled on:
 
+- [Badges](/dashboards/badges/)
 - [Button](/dashboards/button/)
 - [Entities](/dashboards/entities/)
 - [Glance](/dashboards/glance/)
